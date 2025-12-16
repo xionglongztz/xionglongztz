@@ -1,12 +1,10 @@
 # Hi there 🐺✨  
 > a furry developer who enjoys building systems, tools, and game-related software.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xionglongztz&show_icons=true&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🧭 About Me
-
+<a href="#"><img align="right" alt="xionglongztz's github stats" src="https://github-readme-stats.vercel.app/api?username=xionglongztz&show_icons=true&theme=tokyonight&hide_border=true"></img></a>
 - 💻 Furry programmer & engineering-oriented developer  
 - 🔧 Focus on **software tooling**, **game-related development**, and **system-level projects**
 - 🧠 Interested in **servers, infrastructure, embedded systems, and niche tech**
