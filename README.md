@@ -6,7 +6,8 @@
 - 💻 Furry programmer & engineering-oriented developer  
 - 🔧 Focus on **software tooling**, **game-related development**, and **system-level projects**
 - 🧠 Interested in **servers, infrastructure, embedded systems, and niche tech**
-- 🐾 I like keeping things minimal, rational, and well-structured
+- 🐾 I prefer minimal, rational, and well-structured systems  
+- ⚙️ I care about architecture, maintainability, and clarity over hype
 
 > I believe software should be understandable, maintainable, and slightly fun.
 
@@ -16,21 +17,10 @@
 
 > Some of these are still **in progress**, but I enjoy learning them deeply rather than quickly.
 
-## 📌 Currently
+## 🌐 Links
 
-- 🔍 Learning Java ecosystem & project structuring
-- 🧪 Experimenting with server-side tools and automation
-- 🧱 Improving code quality, logging, and configuration design
-
-## 🔗 Links & Contact
-
-- 📺 Bilibili [![Bilibili](https://img.shields.io/endpoint?logo=bilibili&style=social&url=https%3A%2F%2Fapi.zeroroku.com%2Fbilibili%2Fauthor%2Fshield%3Fmid%3D21363815)](https://space.bilibili.com/21363815)
-- 🧑‍💻 GitHub [![GitHub followers](https://img.shields.io/github/followers/xionglongztz?label=Follow&style=social)](https://github.com/xionglongztz)
-- 🧩 Modrinth [![Modrinth](https://img.shields.io/badge/Modrinth-Profile-1bd96a?style=social&logo=modrinth)](https://modrinth.com/user/xionglongztz)
-
-## 🌐 Homepage
-
-- 🌍 https://xionglongztz.github.io (_Work in progress_)
+- 🌍 Blog: https://blog.pawlabs.top
+- 📺 Bilibili: https://space.bilibili.com/21363815
 
 <!--
 **xionglongztz/xionglongztz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
