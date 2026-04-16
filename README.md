@@ -19,7 +19,7 @@
 
 ## 🌐 Links
 
-- 🌍 Blog: https://blog.pawlabs.top
+- 🌍 Blog: https://furland.top
 - 📺 Bilibili: https://space.bilibili.com/21363815
 
 <!--
