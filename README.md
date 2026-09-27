@@ -1,7 +1,7 @@
 # Hi there 🐺✨  
 > a furry developer who enjoys building systems, tools, and game-related software.
 
-## 🧭 About Me
+## About Me
 <a href="#"><img align="right" alt="xionglongztz's github stats" src="https://github-stats-extended.vercel.app/api?username=xionglongztz&show_icons=true&theme=tokyonight&hide_border=true"></img></a>
 - 💻 Furry programmer & engineering-oriented developer  
 - 🔧 Focus on **software tooling**, **game-related development**, and **system-level projects**
@@ -11,16 +11,11 @@
 
 > I believe software should be understandable, maintainable, and slightly fun.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,py,c,arduino,obsidian,ps,md,nginx,visualstudio,git,github,twitter,idea,vscode,linux,windows,dotnet,flask,fastapi,gradle,mysql,sqlite&theme=dark)
 
 > Some of these are still **in progress**, but I enjoy learning them deeply rather than quickly.
-
-## 🌐 Links
-
-- 🌍 Blog: https://furland.top
-- 📺 Bilibili: https://space.bilibili.com/21363815
 
 <!--
 **xionglongztz/xionglongztz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
